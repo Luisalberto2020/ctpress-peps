@@ -1,0 +1,23 @@
+{
+  "name": "ctpress-peps",
+  "version": "1.0.0",
+  "description": "preuabas cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luisalberto2020/ctpress-peps.git"
+  },
+  "author": "Luis Alberto Valle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luisalberto2020/ctpress-peps/issues"
+  },
+  "homepage": "https://github.com/Luisalberto2020/ctpress-peps#readme",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
+}
